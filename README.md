@@ -14,15 +14,15 @@ The primary objectives of this project are:
 - Statistical Analysis: To perform basic statistical analyses to summarize and compare listening patterns.
 - Insights: To derive meaningful insights from the data regarding listening habits.
 
-![Screenshot 2024-06-13 at 13 24 47](https://github.com/Hybr1d758/classical/assets/127874717/29f30ac2-5a93-4efc-9dc9-77124c599550)
-
-
 Dataset
 
 The dataset used in this project contains the following columns:
 - Month: The day of the month (1 to 31).
 - Composer: The name of the composer (Mozart, Beethoven, Bach).
 - Listen_Count: The number of times music by the composer was listened to on that day.
+
+![Screenshot 2024-06-13 at 13 24 47](https://github.com/Hybr1d758/classical/assets/127874717/764263e8-b808-44fd-b774-99ad002e902f)
+
 
 Tools and Libraries
 

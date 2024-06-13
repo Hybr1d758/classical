@@ -14,6 +14,9 @@ The primary objectives of this project are:
 - Statistical Analysis: To perform basic statistical analyses to summarize and compare listening patterns.
 - Insights: To derive meaningful insights from the data regarding listening habits.
 
+![Screenshot 2024-06-13 at 13 24 47](https://github.com/Hybr1d758/classical/assets/127874717/29f30ac2-5a93-4efc-9dc9-77124c599550)
+
+
 Dataset
 
 The dataset used in this project contains the following columns:
